@@ -17,8 +17,8 @@ O projeto inclui os seguintes elementos fundamentais de uma página web:
 
 ## 📷 Fontes das imagens e textos
 
-- Imagens: Foram retiradas da internet.
-- Textos: O conteúdo textual referente à parte de HTML também foi obtido de fontes online.
+- Imagens: Foram retiradas da internet (https://br.pinterest.com/pin/12666442696585603/)
+- Textos: O conteúdo textual referente à parte de HTML também foi obtido de fontes online (https://www.esportelandia.com.br/futebol/jude-bellingham-historia/)
 
 ## 🛠 Tecnologias utilizadas
 
